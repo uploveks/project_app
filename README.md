@@ -25,12 +25,12 @@ The algorithm was tested on three datasets corresponding to different N values:
 
 Profiling was conducted using **Intel VTune** to identify major bottlenecks and evaluate each algorithm's performance. 
 
-![14 Queens Problem](img_resources/14_queen.img)
-![14 Queens Problem1](img_resources/14_queens.img)
-![15 Queens Problem](img_resources/15_queen.img)
-![15 Queens Problem1](img_resources/15_queens.img)
-![16 Queens Problem](img_resources/16_queen.img)
-![16 Queens Problem1](img_resources/16_queens.img)
+![14 Queens Problem](img_resources/14_queen.png)
+![14 Queens Problem1](img_resources/14_queens.png)
+![15 Queens Problem](img_resources/15_queen.png)
+![15 Queens Problem1](img_resources/15_queens.png)
+![16 Queens Problem](img_resources/16_queen.png)
+![16 Queens Problem1](img_resources/16_queens.png)
 
 
 
