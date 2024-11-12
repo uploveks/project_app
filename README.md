@@ -14,12 +14,24 @@ The serial algorithm used to solve the N Queens problem has an exponential compl
 ## Execution Times for Each Problem Size
 The algorithm was tested on three datasets corresponding to different N values:
 
-- **Small**: N=12 (Execution Time: 0.013420000 seconds)
+- **Small**: N=14 (Execution Time: 0.013420000 seconds)
 - **Medium**: N=15 (Execution Time: 2.687432000  seconds)
 - **Big**: N=16 (Execution Time: 18.519619000 seconds)
+
+  These times were obtained by running the algorithm in a serial implementation, demonstrating how execution time increases significantly with larger values of N due to the exponential complexity of the problem. 
 
 
 ## Profiling and Bottlenecks
 
 Profiling was conducted using **Intel VTune** to identify major bottlenecks and evaluate each algorithm's performance. 
+
+![14 Queens Problem](img_resources/14_queen.img)
+![14 Queens Problem1](img_resources/14_queens.img)
+![15 Queens Problem](img_resources/15_queen.img)
+![15 Queens Problem1](img_resources/15_queens.img)
+![16 Queens Problem](img_resources/16_queen.img)
+![16 Queens Problem1](img_resources/16_queens.img)
+
+
+
 
